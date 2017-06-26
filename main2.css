@@ -4,7 +4,7 @@
   margin:0;
   padding:0;
 }
-
+ test
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif:400,700);
 
 html, body {
@@ -15,7 +15,6 @@ body {
   text-align:center;
   background-color: #ffffff;
 }
-/*
 
 h1 {
     font-size: 70px;
@@ -23,7 +22,7 @@ h1 {
     margin-bottom: 0;
 }
 
-
+/*
 h2 {
     color: #ffffff;
     background: #cccccc;
